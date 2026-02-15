@@ -1,0 +1,11 @@
+id,date,customer,amount,category
+1,2026-02-01,Alex,120.50,Food
+2,2026-02-01,Bob,75.00,Transport
+3,2026-02-02,Clara,200.00,Shopping
+4,2026-02-02,Dan,50.00,Food
+5,2026-02-03,Emma,300.00,Electronics
+6,2026-02-03,Fred,20.00,Transport
+7,2026-02-04,Gina,150.00,Shopping
+8,2026-02-04,Henry,45.00,Food
+9,2026-02-05,Ivan,500.00,Electronics
+10,2026-02-05,Julia,60.00,Transport
